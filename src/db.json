@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "category1",
+            "display_name": "category1",
+            "isComplete": false
+        },
+        {
+            "id": 2,
+            "name": "category2",
+            "display_name": "category2",
+            "isComplete": false
+        },
+        {
+            "id": 3,
+            "name": "category3",
+            "display_name": "category3",
+            "isComplete": false
+        },
+        {
+            "id": 4,
+            "name": "category4",
+            "display_name": "category4",
+            "isComplete": false
+        }
+    ],
+    "records": [
+        {
+            "id": 1,
+            "category": "category2",
+            "title": "Milk and Vine: Inspirational Quotes From Classic Vines",
+            "author": "human",
+            "entry": "Parodying the popular poetry book Milk and Honey, Milk and Vine beautifully portrays the best vines of all time in this modern poetic format."
+        },
+        {
+            "id": 1,
+            "category": "category3",
+            "title": "A Book Title",
+            "author": "human",
+            "entry": "Writing something here..."
+        }
+    ]
+}
